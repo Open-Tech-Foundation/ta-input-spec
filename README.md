@@ -1,9 +1,6 @@
-<div>
-<img src="https://open-tech-foundation.pages.dev/img/Logo.svg" width="50" height="50">
+<img align="left" src="https://open-tech-foundation.pages.dev/img/Logo.svg" width="50" height="50">
 
 [OPEN TECH FOUNDATION](https://open-tech-foundation.pages.dev/)
-
-</div>
 
 <div align="center">
 
