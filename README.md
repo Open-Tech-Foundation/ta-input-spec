@@ -18,10 +18,11 @@
 ### Contents
 
 1. [About](#about)
-2. [Keyboard Layout](#keyboard-layout)
-3. [Virtual Keyboards](#virtual-keyboards)
-4. [Issues in Existing Standards](#issues-in-existing-standards)
-5. [References](#references)
+1. [Keyboard Layout](#keyboard-layout)
+1. [Virtual Keyboards](#virtual-keyboards)
+1. [Issues in Existing Standards](#issues-in-existing-standards)
+1. [Implementations](#implementations)
+1. [References](#references)
 
 ## About
 
