@@ -12,7 +12,7 @@
 
 > The Thamizhl (தமிழ்) language input specification.
 
-> [!IMPORTANT]
+> [!WARNING]
 > This spec is in an early stage and subject to change in the future.
 
 ### Contents
