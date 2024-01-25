@@ -12,6 +12,9 @@
 
 > The Thamizhl (தமிழ்) language input specification.
 
+> [!IMPORTANT]
+> This spec is in an early stage and subject to change in the future.
+
 ### Contents
 
 1. [About](#about)
@@ -58,7 +61,7 @@ This specification defines how the **Thamizhl (தமிழ்)** language scrip
   "n": "ந",
   "m": "ம",
   "Q": "ூ",
-  "W": "ஶ",
+  "W": "ஐ",
   "E": "ஈ",
   "R": "ற",
   "T": null,
@@ -66,7 +69,7 @@ This specification defines how the **Thamizhl (தமிழ்)** language scrip
   "U": "ஊ",
   "I": "ீ",
   "O": "ஓ",
-  "P": null,
+  "P": "௳",
   "A": "ஆ",
   "S": "ஸ",
   "D": "ஷ",
@@ -79,7 +82,7 @@ This specification defines how the **Thamizhl (தமிழ்)** language scrip
   "Z": "ஔ",
   "X": "ஃ",
   "C": "ஞ",
-  "V": "ஐ",
+  "V": null,
   "B": "ோ",
   "N": "ண",
   "M": "ௐ"
@@ -101,6 +104,12 @@ This specification defines how the **Thamizhl (தமிழ்)** language scrip
 - Non prioritization for thamizhl Vowels & Consonants.
 - Using common symbol & number keys to represent the language letters.
 - The current implementations does not restrict displaying invalid language combinations letters.
+- Usage of obsolete scripts.
+
+## Implementations
+
+- Web
+  - [React Ta Input](https://react-ta-input.pages.dev/)
 
 ## Contribution
 
